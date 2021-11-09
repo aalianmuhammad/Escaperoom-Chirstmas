@@ -1,0 +1,83 @@
+body{
+    background-color: #FAAD9D;
+}
+
+
+.floor{
+    position: absolute;
+    left: 0;
+    bottom: -30px;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    height: 150px;
+    z-index: -15;
+}
+.bookcase{
+    position: absolute;
+    top: 446px;
+    left: -35px;
+}
+
+.closet{
+    position: absolute;
+    top: 573px;
+    left: 1500px;
+}
+
+.door{
+    position: absolute;
+    top: 450.3px;
+    left: 830px;
+}
+.christmastree{
+    position: absolute;
+    top: 390.3px;
+    left: 500px;
+} 
+.chair{
+    position: absolute;
+    top: 550px;
+    left: 1100px;
+}
+.clock{
+    position: absolute;
+    top: 100px;
+    right: 150x;
+    left: 890px;
+}
+.paint{
+    position: absolute;
+    top: 250px;
+    right: 150x;
+    left: 1300px;
+}
+
+.treasurechest{
+    position: absolute;
+    top: 505px;
+    left: 1565px;
+}
+.versiering1{
+    position: absolute;
+    top: 9px;
+    left: 405px;
+}
+
+.versiering2{
+    position: absolute;
+    top: 9px;
+    left: 800px;
+}
+
+.versiering3{
+    position: absolute;
+    top: 9px;
+    left: 1200px;
+}
+
+.versiering4{
+    position: absolute;
+    top: 9px;
+    left: 1550px;
+}

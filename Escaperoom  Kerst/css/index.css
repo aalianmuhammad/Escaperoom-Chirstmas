@@ -1,0 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Roboto&display=swap');
+
+.background-body{
+    background: #2F7336;  
+    background: -webkit-linear-gradient(to right, #AA3A38, #2F7336); 
+    background: linear-gradient(to right, #AA3A38, #2F7336); 
+}

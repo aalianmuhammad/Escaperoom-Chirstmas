@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(119, 119, 119);
+}
+
+.Outro,
+.Outro:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+.Outro:hover,
+.Outro:active {
+  background-color: red;
+}
